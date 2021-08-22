@@ -1,3 +1,6 @@
+**PLEASE NOTE:** This repository has been archived. The fork was created so the original plugin created by [Patrick Hogenboom](https://github.com/PatHightree) can be used via UPM.
+Since Patrick updated his version to support UPM this fork was deprecated. Find a new and UPM compatible version [HERE](https://github.com/PatHightree/SpaceNavigator).
+
 # Space Mouse Unity
 
 3DConnexion Space Mouse driver for Unity3D.
